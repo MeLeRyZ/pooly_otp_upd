@@ -1,0 +1,6 @@
+1. ETS is in essence a very efficient in-memory database built
+   specially to store Erlang/Elixir data. It can store large
+   amounts of data without breaking a sweat. Data access is
+   also done in constant time.
+
+2. 
